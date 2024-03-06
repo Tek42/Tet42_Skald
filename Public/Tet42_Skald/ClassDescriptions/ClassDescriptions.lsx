@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ClassDescriptions">
+    <node id="root">
+      <children>
+        <node id="ClassDescription">
+          <attribute id="BaseHp" type="int32" value="8" />
+          <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8" />
+          <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_Skald" />
+          <attribute id="ClassHotbarColumns" type="int32" value="5" />
+          <attribute id="CommonHotbarColumns" type="int32" value="9" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h85bceba6g5bf6g4a08g87e3g648b53cf04eb" version="1" />
+          <attribute id="Description" type="TranslatedString" handle="had501ceegeff8g4a17gbc4fg2611d567f384" version="1" />
+          <attribute id="HpPerLevel" type="int32" value="5" />
+          <attribute id="IsSomaticWithInstrument" type="bool" value="true" />
+          <attribute id="ItemsHotbarColumns" type="int32" value="2" />
+          <attribute id="LearningStrategy" type="uint8" value="1" />
+          <attribute id="MulticlassSpellcasterModifier" type="double" value="1" />
+          <attribute id="Name" type="FixedString" value="Skald" />
+          <attribute id="PrimaryAbility" type="uint8" value="6" />
+          <attribute id="ProgressionTableUUID" type="guid" value="96d3e7be-9e8d-45f8-9b61-688be6387b73" />
+          <attribute id="SoundClassType" type="FixedString" value="Bard" />
+          <attribute id="SpellCastingAbility" type="uint8" value="6" />
+          <attribute id="SpellList" type="guid" value="c98f2011-31e1-4e9a-8061-62c8679c645e" />
+          <attribute id="UUID" type="guid" value="b874e02e-8b00-4cbc-be31-1922e2079e04" />
+          <children>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="d93434bd-6b71-4789-b128-ee24156057cc" />
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
