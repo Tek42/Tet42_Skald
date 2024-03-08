@@ -108,7 +108,7 @@ new entry "Shout_Skald_Rune_Rage"
 		data "SpellType" "Shout"
 		data "Level" "3"
 		data "SpellSchool" "Enchantment"
-		data "SpellProperties" "IF(HasStatus('SKALD_MARTIAL_RUNE', context.Target, context.Source)):ApplyStatus(SKALD_RAGE,100,5);IF(HasStatus('SKALD_CASTER_RUNE', context.Target, context.Source)):ApplyStatus(SKALD_CASTER_ACUITY,100,5)"
+		data "SpellProperties" "IF(HasStatus('SKALD_MARTIAL_RUNE', context.Target, context.Source)):ApplyStatus(SKALD_RAGE,100,5);IF(HasStatus('SKALD_MARTIAL_RUNE', context.Target, context.Source)):ApplyStatus(RAGE_MUTE,100,5);IF(HasStatus('SKALD_CASTER_RUNE', context.Target, context.Source)):ApplyStatus(SKALD_CASTER_ACUITY,100,5)"
 		data "TargetConditions" "Character() and Ally() and not Dead()"
 		data "TargetRadius" "16"
 		data "AreaRadius" "16"
@@ -557,7 +557,7 @@ new entry "Shout_Performance_Haste"
 		data "TargetEffect" "4df0bae6-fccf-48a0-804c-3edc40264d07"
 		data "PositionEffect" "2832c7dd-14bd-4c51-9d2a-599c2c19005f"
 		data "Cooldown" "OncePerCombat"
-		
+
 // Performance Daze -->
 
 new entry "Shout_Performance_Daze"
