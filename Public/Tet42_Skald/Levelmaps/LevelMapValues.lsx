@@ -9,7 +9,7 @@
                     <attribute id="Level10" type="LSString" value="1d10"/>
                     <attribute id="Level5" type="LSString" value="1d8"/>
                     <attribute id="Name" type="FixedString" value="SkaldInspiration"/>
-                    <attribute id="UUID" type="guid" value="d109ae9e-7199-41ab-b328-8e469142be08"/>
+                    <attribute id="UUID" type="guid" value="bf103de6-a9a6-49ea-8ff5-24dead77ec11"/>
                 </node>
                 <node id="LevelMapSeries">
                     <attribute id="Level2" type="LSString" value="1d6"/>
@@ -25,7 +25,7 @@
                     <attribute id="Level8" type="LSString" value="1d10"/>
                     <attribute id="Level9" type="LSString" value="1d10"/>
                     <attribute id="Name" type="FixedString" value="SkaldForce"/>
-                    <attribute id="UUID" type="guid" value="fc7d7e89-573e-4f1d-bed6-d00980dc8ac6"/>
+                    <attribute id="UUID" type="guid" value="b019e07e-51ab-4996-8649-56c5cb76b3dd"/>
                 </node>
             </children>
         </node>

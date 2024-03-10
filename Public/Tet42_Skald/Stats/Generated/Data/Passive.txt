@@ -20,4 +20,3 @@ new entry "MAG_Skald_MeleeCaster_Passive"
 	type "PassiveData"
 		data "DisplayName" "hfbb9c9b0g642ag4345g93ceg46fb8d9f9a92;1"
 		data "Description" "h7e897d6cg4be3g4927ga365g16506074f676;1"
-        
