@@ -56,7 +56,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(61f79a30-2cac-4a7a-b5fe-50c89d307dd6,1,0,BardCantrip,,,AlwaysPrepared);SelectSpells(7ea8f476-97a1-4256-8f10-afa76a845cce,1,1,BardSpells)" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(9dd69111-df38-4c81-95fb-209c2d62870c,,,,AlwaysPrepared);SelectSpells(61f79a30-2cac-4a7a-b5fe-50c89d307dd6,1,0,BardCantrip,,,AlwaysPrepared);SelectSpells(7ea8f476-97a1-4256-8f10-afa76a845cce,1,1,BardSpells)" />
                     <attribute id="TableUUID" type="guid" value="96d3e7be-9e8d-45f8-9b61-688be6387b73" />
                     <attribute id="UUID" type="guid" value="bb16eba7-bfde-436b-a97a-9deab2ce31b0" />
                 </node>
@@ -67,7 +67,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(BardicInspiration,1,0);ActionResource(SpellSlot,2,3)"/>
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="PassivesAdded" type="LSString" value="FontOfInspiration;BardicInspiration_d8;UnlockedSpellSlotLevel3" />
-                    <attribute id="Selectors" type="LSString" value="AddSpells(9dd69111-df38-4c81-95fb-209c2d62870c,,,,AlwaysPrepared);AddSpells(964e765d-5881-463e-b1b0-4fc6b8035aa8);SelectSpells(c213ca01-3767-457b-a5c8-fd4c1dd656e2,1,1,BardSpells)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(c213ca01-3767-457b-a5c8-fd4c1dd656e2,1,1,BardSpells)" />
                     <attribute id="TableUUID" type="guid" value="96d3e7be-9e8d-45f8-9b61-688be6387b73" />
                     <attribute id="UUID" type="guid" value="75b80e47-3dd4-445b-b4d8-48d975f98ca4" />
                 </node>

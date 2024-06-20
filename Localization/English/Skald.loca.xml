@@ -46,10 +46,10 @@
 	<content contentuid="h74cf8945g51dag4026gaacagc0b8c56d3270" version="1">Scherzo</content>
 	<content contentuid="hb89cdcf1gf81bg49f3gae90g882e0e9b1c74" version="1">Combo Break</content>
 	<content contentuid="h92dcc189gbc03g4bfbgae7eg9daacd59a90f" version="1">Resets a broken combo chain.</content>
-	<content contentuid="hc4b4e074g2700g4c57gbce4gfae9f88d4284" version="1">Song of Battle: Shield Wall (Overture)</content>
-	<content contentuid="h5df6c614g35abg43fagb531g82cc5fac47ec" version="1">Raise the shield wall, hold the front line.&lt;br&gt;&lt;br&gt;Take only half the damage from Bludgeoning, Piercing, and Slashing attacks.</content>
+	<content contentuid="hc4b4e074g2700g4c57gbce4gfae9f88d4284" version="1">Song of Battle: Prediction of Warfare (Overture)</content>
+	<content contentuid="h5df6c614g35abg43fagb531g82cc5fac47ec" version="1">But as we gained the upper hand. Their fighting spirit quelled.&lt;br&gt;&lt;br&gt;Become more resistant to spell effects and conditions, receive a +1d4 bonus to Saving Throws.</content>
 	<content contentuid="hdbdc8c19gd5aeg479eg9ff4g169bd8c30485" version="1">Song of Battle: Hand of Doom (Overture)</content>
-	<content contentuid="hedd80320gce76g4618g9908ga4617b3c1f6b" version="1">Feel your body heave, deaths hand starts to weave.&lt;br&gt;&lt;br&gt;Enemies are &lt;LSTag Type="Status" Tooltip="SLOW"&gt;Slowed&lt;/LSTag&gt;. Movement and actions are affected, and their &lt;LSTag Tooltip="ArmourClass"&gt;AC&lt;/LSTag&gt; and Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;saves&lt;/LSTag&gt; are reduced by 2.</content>
+	<content contentuid="hedd80320gce76g4618g9908ga4617b3c1f6b" version="1">Feel your body heave, deaths hand starts to weave.&lt;br&gt;&lt;br&gt;Enemies are &lt;LSTag Type="Status" Tooltip="SLOW"&gt;Slowed&lt;/LSTag&gt;.</content>
 	<content contentuid="h71c450d5g74b4g406bgb54dgfdd4c97f14bc" version="1">Song of Battle: War Ensemble (Overture)</content>
 	<content contentuid="hf35185a5gd669g41e4g9ddcg029ebab75d74" version="1">The sport is war, total war.&lt;br&gt;&lt;br&gt;You and your companions gain a bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
 	<content contentuid="h97ab9570g4ad7g4720gb373g5c54ba3e9114" version="1">Song of Battle: Gates of Delirium (Overture)</content>
@@ -62,7 +62,7 @@
 	<content contentuid="h524fbcfbgcfe3g4812g92d9gaf712dfa5a6c" version="1">Song of Battle: Dazed and Confused</content>
 	<content contentuid="hf787c05bga180g44cfg98ffgd768fdc31610" version="1">Don't know where you're going, only know just where you've been.&lt;br&gt;&lt;br&gt;All enemies that can hear your song have are dazed and have disadvantage.</content>
 	<content contentuid="hc4b41815gd27bg44fdgaf66ga29c8622b5f8" version="1">Song of Battle: Darkness Within</content>
-	<content contentuid="h6a52da6dg96d5g4a17g9488gf56d5e946288" version="1">And now the shadowed veil it falls. Heed the clarion call.&lt;br&gt;&lt;br&gt;All enemies that can hear your song become blinded and have a penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and their &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is halved for as long as your song lasts.</content>
+	<content contentuid="h6a52da6dg96d5g4a17g9488gf56d5e946288" version="1">And now the shadowed veil it falls. Heed the clarion call.&lt;br&gt;&lt;br&gt;All enemies that can hear your song become blinded and have a penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;</content>
 	<content contentuid="hc714a422gebeag49b0g8fc6g34af97b8f56e" version="1">Song of Battle: Victorius March</content>
 	<content contentuid="h0e446cb6g2ec5g40a1g9cdeg1754352884f7" version="1">The horizon burns and the song is ringing loud.&lt;br&gt;&lt;br&gt;You and your compantions gain a +2 bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; as long as your song lasts.</content>
 	<content contentuid="h8195ed82g90a3g4e60g9be2g363db19ae104" version="1">Careful With That Axe - Adagio (Melee)</content>

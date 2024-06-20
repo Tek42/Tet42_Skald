@@ -7,7 +7,7 @@
 			<attribute id="DisplayDescription" type="TranslatedString" handle="hee650b97bb4445d4a55482dbff618dbd07bb" version="1" />
 			<attribute id="DisplayName" type="TranslatedString" handle="he89d341d3a584535a2c34c6668a00c3de50g" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
-			<attribute id="Name" type="FixedString" value="SKALD" />
+			<attribute id="Name" type="FixedString" value="Skald" />
 			<attribute id="UUID" type="guid" value="e431a883-5f2d-4c3c-b7b8-0baac4f5e795" />
 			<children>
 				<node id="Categories">

@@ -20,8 +20,8 @@
 			<attribute id="UUID" type="guid" value="0aeaf8d8-4c9b-4a5f-8372-7baa4e9f161a" />
 		</node>
         <node id="SpellList">
-			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 5" />
-			<attribute id="Spells" type="LSString" value="Shout_SummonSkaldDrum" />
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 4" />
+			<attribute id="Spells" type="LSString" value="Shout_SummonSkaldDrum;Shout_Skald_ActionSurge" />
 			<attribute id="UUID" type="guid" value="9dd69111-df38-4c81-95fb-209c2d62870c" />
 		</node>
         <node id="SpellList">

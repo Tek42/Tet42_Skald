@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <save>
 	<version major="1" minor="0" revision="0" build="0" lslib_meta="v1,bswap_guids" />
 	<region id="Dependencies">
@@ -18,7 +18,7 @@
 					<children>
 						<node id="EffectComponent">
 							<attribute id="EndTime" type="float" value="2" />
-							<attribute id="ID" type="guid" value="60574f4d-5c5b-4f33-bc86-2b84baa5e71f" />
+							<attribute id="ID" type="guid" value="f4e5040a-7ba6-4346-b4a6-a6ee8a3672e5" />
 							<attribute id="Name" type="LSString" value="BoundingSphere" />
 							<attribute id="StartTime" type="float" value="0" />
 							<attribute id="Track" type="uint32" value="0" />
@@ -54,7 +54,7 @@
 											<attribute id="AttributeName" type="FixedString" value="Radius" />
 											<attribute id="FullName" type="FixedString" value="Radius" />
 											<attribute id="Type" type="uint8" value="4" />
-											<attribute id="Value" type="float" value="5" />
+											<attribute id="Value" type="float" value="12" />
 											<children>
 												<node id="Parameter">
 													<attribute id="Name" type="LSString" value="default" />
@@ -73,11 +73,11 @@
 							</children>
 						</node>
 						<node id="EffectComponent">
-							<attribute id="EndTime" type="float" value="0.4780626" />
-							<attribute id="ID" type="guid" value="a96c0484-2fb3-45e3-9875-3adcc3bc63b5" />
+							<attribute id="EndTime" type="float" value="0.5" />
+							<attribute id="ID" type="guid" value="2569d956-5618-4c60-a15e-f4e788ccee44" />
 							<attribute id="Name" type="LSString" value="Decal" />
 							<attribute id="StartTime" type="float" value="0" />
-							<attribute id="Track" type="uint32" value="5" />
+							<attribute id="Track" type="uint32" value="1" />
 							<attribute id="Type" type="LSString" value="Decal" />
 							<children>
 								<node id="Properties">
@@ -104,11 +104,11 @@
 													<children>
 														<node id="Frame">
 															<attribute id="Time" type="float" value="0" />
-															<attribute id="Value" type="float" value="13.75" />
+															<attribute id="Value" type="float" value="19.5" />
 														</node>
 														<node id="Frame">
 															<attribute id="Time" type="float" value="1" />
-															<attribute id="Value" type="float" value="13.75" />
+															<attribute id="Value" type="float" value="19.5" />
 														</node>
 													</children>
 												</node>
@@ -117,11 +117,11 @@
 													<children>
 														<node id="Frame">
 															<attribute id="Time" type="float" value="0" />
-															<attribute id="Value" type="float" value="13.75" />
+															<attribute id="Value" type="float" value="19.5" />
 														</node>
 														<node id="Frame">
 															<attribute id="Time" type="float" value="1" />
-															<attribute id="Value" type="float" value="13.75" />
+															<attribute id="Value" type="float" value="19.5" />
 														</node>
 													</children>
 												</node>
@@ -131,7 +131,7 @@
 											<attribute id="AttributeName" type="FixedString" value="Distance" />
 											<attribute id="FullName" type="FixedString" value="Appearance.Distance" />
 											<attribute id="Type" type="uint8" value="4" />
-											<attribute id="Value" type="float" value="1" />
+											<attribute id="Value" type="float" value="5" />
 										</node>
 										<node id="Property">
 											<attribute id="AttributeName" type="FixedString" value="Tiling Y" />
@@ -234,7 +234,7 @@
 											<attribute id="AttributeName" type="FixedString" value="Position" />
 											<attribute id="FullName" type="FixedString" value="Offset" />
 											<attribute id="Type" type="uint8" value="8" />
-											<attribute id="Value" type="fvec3" value="0 0.2 0" />
+											<attribute id="Value" type="fvec3" value="0 0 0" />
 										</node>
 										<node id="Property">
 											<attribute id="AttributeName" type="FixedString" value="Rotation" />
@@ -266,7 +266,7 @@
 											<attribute id="AttributeName" type="FixedString" value="Uniform Scale" />
 											<attribute id="FullName" type="FixedString" value="Appearance.Uniform Scale" />
 											<attribute id="Type" type="uint8" value="4" />
-											<attribute id="Value" type="float" value="1.5" />
+											<attribute id="Value" type="float" value="1" />
 										</node>
 										<node id="Property">
 											<attribute id="AttributeName" type="FixedString" value="Color" />
@@ -298,11 +298,11 @@
 													<children>
 														<node id="Frame">
 															<attribute id="Time" type="float" value="0" />
-															<attribute id="Value" type="float" value="11.96774" />
+															<attribute id="Value" type="float" value="10" />
 														</node>
 														<node id="Frame">
 															<attribute id="Time" type="float" value="1" />
-															<attribute id="Value" type="float" value="11.96774" />
+															<attribute id="Value" type="float" value="10" />
 														</node>
 													</children>
 												</node>
@@ -657,18 +657,6 @@
 						</node>
 					</children>
 				</node>
-				<node id="Inputs">
-					<children>
-						<node id="Input">
-							<attribute id="Name" type="FixedString" value="Target Visual" />
-							<attribute id="Type" type="uint8" value="1" />
-						</node>
-						<node id="Input">
-							<attribute id="Name" type="FixedString" value="Bone Rest Position" />
-							<attribute id="Type" type="uint8" value="1" />
-						</node>
-					</children>
-				</node>
 				<node id="Phases">
 					<children>
 						<node id="Phase">
@@ -680,7 +668,7 @@
 							<attribute id="PlayCount" type="int32" value="-1" />
 						</node>
 						<node id="Phase">
-							<attribute id="Duration" type="float" value="0.59" />
+							<attribute id="Duration" type="float" value="1.72" />
 							<attribute id="PlayCount" type="int32" value="1" />
 						</node>
 					</children>
