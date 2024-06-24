@@ -11,7 +11,7 @@
 		</node>
         <node id="SpellList">
 			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 2" />
-			<attribute id="Spells" type="LSString" value="Target_SkaldicInspiration;Shout_Performance_Level_3;SKALD_MELEE_COMBO_1;SKALD_MELEE_COMBO_2;SKALD_MELEE_FINISHER;" />
+			<attribute id="Spells" type="LSString" value="COMBO_1;COMBO_2;COMBO_3;Target_BardicInspiration;Shout_Performance;SKALD_MELEE_COMBO_1;SKALD_MELEE_COMBO_2;SKALD_MELEE_FINISHER;" />
 			<attribute id="UUID" type="guid" value="66031661-f3a3-4d79-b7c7-c3ea89394496" />
 		</node>
         <node id="SpellList">
@@ -26,7 +26,7 @@
 		</node>
         <node id="SpellList">
 			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 6" />
-			<attribute id="Spells" type="LSString" value="Shout_Performance_Level_6;SKALD_SPELL_COMBO_1;SKALD_SPELL_COMBO_2;SKALD_SPELL_FINISHER_DMG;SKALD_SPELL_FINISHER_HEAL;SKALD_SPELL_FINISHER_MASSHEAL" />
+			<attribute id="Spells" type="LSString" value="SKALD_SPELL_COMBO_1;SKALD_SPELL_COMBO_2;SKALD_SPELL_FINISHER_DMG;SKALD_SPELL_FINISHER_HEAL;SKALD_SPELL_FINISHER_MASSHEAL" />
 			<attribute id="UUID" type="guid" value="6ffd26bb-a764-4409-ad47-b158115ff7f5" />
 		</node>
         <node id="SpellList">
@@ -41,7 +41,7 @@
 		</node>
         <node id="SpellList">
 			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 9" />
-			<attribute id="Spells" type="LSString" value="Shout_Performance_Level_9" />
+			<attribute id="Spells" type="LSString" value="" />
 			<attribute id="UUID" type="guid" value="930697f5-19b5-4698-90e8-a86876d6cbfd" />
 		</node>
         <node id="SpellList">
@@ -56,8 +56,50 @@
 		</node>
         <node id="SpellList">
 			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 12" />
-			<attribute id="Spells" type="LSString" value="Shout_Performance_Level_12" />
+			<attribute id="Spells" type="LSString" value="" />
 			<attribute id="UUID" type="guid" value="102da695-749e-4b44-9cbb-2d6ecbde9c37" />
+		</node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 13" />
+			<attribute id="Spells" type="LSString" value="WARHORN_CRUSADER" />
+			<attribute id="UUID" type="guid" value="f2cbdd1b-06df-4199-a5fe-ab8019de841e" />
+		</node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 14" />
+			<attribute id="Spells" type="LSString" value="" />
+			<attribute id="UUID" type="guid" value="ea2733fc-36a9-401f-b6dd-d7bb0d12b322" />
+		</node>
+
+	        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 15" />
+			<attribute id="Spells" type="LSString" value="" />
+			<attribute id="UUID" type="guid" value="76aaee76-f888-4412-9f75-b3746a9a1699" />
+		</node>
+
+	        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 16" />
+			<attribute id="Spells" type="LSString" value="" />
+			<attribute id="UUID" type="guid" value="f9ab8d01-ff62-4568-8690-18411c1047e5" />
+		</node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 17" />
+			<attribute id="Spells" type="LSString" value="WARHORN_STORMWAVE" />
+			<attribute id="UUID" type="guid" value="e3fa5b25-82b3-462e-a899-32ee9c838bfd" />
+		</node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 18" />
+			<attribute id="Spells" type="LSString" value="" />
+			<attribute id="UUID" type="guid" value="c32caccb-ca65-4ae4-93c0-0661b73cc2b6" />
+		</node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 19" />
+			<attribute id="Spells" type="LSString" value="" />
+			<attribute id="UUID" type="guid" value="1e8cf40a-235c-43d3-9cdb-b3febed17676" />
+		</node>
+        <node id="SpellList">
+			<attribute id="Comment" type="LSString" value="Skald Spells lists Lvl 20" />
+			<attribute id="Spells" type="LSString" value="" />
+			<attribute id="UUID" type="guid" value="2eb3e111-cc8f-4733-86d9-306bf4b5fa27" />
 		</node>
       </children>
     </node>

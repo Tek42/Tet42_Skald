@@ -28,7 +28,7 @@
                     <attribute id="UUID" type="guid" value="bb8c25b2-d1ed-4af4-bfe4-1eae99169882"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SkaldInspiration,4,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(BardicInspiration,4,0)"/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Skald"/>
                     <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -44,7 +44,8 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2);ProficiencyBonus(SavingThrow,Constitution)" />
-                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel2" />
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel2;CombatInspiration"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="BardicInspiration"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(0aeaf8d8-4c9b-4a5f-8372-7baa4e9f161a,,,,AlwaysPrepared);SelectSpells(7ea8f476-97a1-4256-8f10-afa76a845cce,1,1,BardSpells);SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,2)" />
                     <attribute id="TableUUID" type="guid" value="96d3e7be-9e8d-45f8-9b61-688be6387b73" />
                     <attribute id="UUID" type="guid" value="552a7738-4541-4260-90dc-fdbf18c1c15b" />
@@ -66,7 +67,7 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(BardicInspiration,1,0);ActionResource(SpellSlot,2,3)"/>
                     <attribute id="ProgressionType" type="uint8" value="0" />
-                    <attribute id="PassivesAdded" type="LSString" value="FontOfInspiration;BardicInspiration_d8;UnlockedSpellSlotLevel3" />
+                    <attribute id="PassivesAdded" type="LSString" value="FontOfBardicInspiration;BardicInspiration_d8;UnlockedSpellSlotLevel3" />
                     <attribute id="Selectors" type="LSString" value="SelectSpells(c213ca01-3767-457b-a5c8-fd4c1dd656e2,1,1,BardSpells)" />
                     <attribute id="TableUUID" type="guid" value="96d3e7be-9e8d-45f8-9b61-688be6387b73" />
                     <attribute id="UUID" type="guid" value="75b80e47-3dd4-445b-b4d8-48d975f98ca4" />
@@ -75,9 +76,9 @@
                     <attribute id="Level" type="uint8" value="6" />
                     <attribute id="Name" type="LSString" value="Skald" />
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="PassivesAdded" type="LSString" value="SKALD_SONG_OF_BATTLE_FOCUS" />
+                    <attribute id="PassivesAdded" type="LSString" value="SKALD_BATTLE_FOCUS;Herald_Thunder" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SkaldInspiration,2,0)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BardicInspiration,2,0);ActionResource(SpellSlot,1,3)" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(6ffd26bb-a764-4409-ad47-b158115ff7f5,,,,AlwaysPrepared);SelectSpells(175ceed7-5a53-4f48-823c-41c4f72d18ae,2,0,BardMagicalSecrets);AddSpells(d84fc8ab-293e-437f-9825-e3e313f78060);SelectSpells(c213ca01-3767-457b-a5c8-fd4c1dd656e2,1,1,BardSpells)" />
                     <attribute id="TableUUID" type="guid" value="96d3e7be-9e8d-45f8-9b61-688be6387b73" />
                     <attribute id="UUID" type="guid" value="270ec977-8472-4048-a1d6-152554630c29" />
@@ -108,7 +109,7 @@
                     <attribute id="Level" type="uint8" value="9" />
                     <attribute id="Name" type="LSString" value="Skald" />
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SkaldInspiration,2,0);ActionResource(SpellSlot,1,4);ActionResource(SpellSlot,1,5)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BardicInspiration,2,0);ActionResource(SpellSlot,1,4);ActionResource(SpellSlot,1,5)"/>
                     <attribute id="PassivesAdded" type="LSString" value="" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(930697f5-19b5-4698-90e8-a86876d6cbfd,,,,AlwaysPrepared);SelectSpells(bd71fffb-e4d2-4233-9a31-13d43fba36e3,1,1,BardSpells)"/>
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -141,7 +142,7 @@
                     <attribute id="Level" type="uint8" value="12" />
                     <attribute id="Name" type="LSString" value="Skald" />
                     <attribute id="AllowImprovement" type="bool" value="true"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SkaldInspiration,2,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(BardicInspiration,2,0)"/>
                     <attribute id="PassivesAdded" type="LSString" value="" />
                     <attribute id="PassivesRemoved" type="LSString" value="" />
                     <attribute id="Selectors" type="LSString" value="AddSpells(102da695-749e-4b44-9cbb-2d6ecbde9c37,,,,AlwaysPrepared);SelectSpells(586a8796-34f4-41f5-a3ef-95738561d55d,1,1,BardSpells)" />
@@ -153,9 +154,10 @@
                     <attribute id="Level" type="uint8" value="13" />
                     <attribute id="Name" type="LSString" value="Skald" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
-                    <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="BardicInspiration_2;SculptSpells"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="BardicInspiration"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(f923e058-b1d9-4b02-98ef-9daaa82a71b6,1,1,BardSpells)"/>
                     <attribute id="TableUUID" type="guid" value="96d3e7be-9e8d-45f8-9b61-688be6387b73" />
                     <attribute id="UUID" type="guid" value="75a946ed-2976-4ee3-9973-15ba5398bbb9" />
                 </node>
@@ -163,9 +165,9 @@
                     <attribute id="Level" type="uint8" value="14" />
                     <attribute id="Name" type="LSString" value="Skald" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
+					<attribute id="PassivesAdded" type="LSString" value="BattleMagic"/>
                     <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(95f80109-32b7-43f8-a99a-7ee2286a993a,2,1,BardMagicalSecrets)"/>
                     <attribute id="TableUUID" type="guid" value="96d3e7be-9e8d-45f8-9b61-688be6387b73" />
                     <attribute id="UUID" type="guid" value="1baf1844-999f-4432-818a-4f4ad2b26ca2" />
                 </node>
@@ -173,9 +175,9 @@
                     <attribute id="Level" type="uint8" value="15" />
                     <attribute id="Name" type="LSString" value="Skald" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
-                    <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="BardicInspiration_d12"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,8)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(073c09e5-ccb9-4153-a210-001225a30cbb,1,1,BardSpells)"/>
                     <attribute id="TableUUID" type="guid" value="96d3e7be-9e8d-45f8-9b61-688be6387b73" />
                     <attribute id="UUID" type="guid" value="7e338559-a501-48d6-b43f-8a109c660a92" />
                 </node>
@@ -185,7 +187,7 @@
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
                     <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(073c09e5-ccb9-4153-a210-001225a30cbb,0,1,BardSpells)"/>
                     <attribute id="TableUUID" type="guid" value="96d3e7be-9e8d-45f8-9b61-688be6387b73" />
                     <attribute id="UUID" type="guid" value="64099592-f937-4b73-ae0c-afbbd3f9a1eb" />
                 </node>
@@ -194,8 +196,8 @@
                     <attribute id="Name" type="LSString" value="Skald" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
-                    <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,9)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(2bbd99d0-21b4-41cc-836e-e386a96fc8e6,1,1,BardSpells)"/>
                     <attribute id="TableUUID" type="guid" value="96d3e7be-9e8d-45f8-9b61-688be6387b73" />
                     <attribute id="UUID" type="guid" value="0348ad4d-03a6-4c31-8892-4d7692109388" />
                 </node>
@@ -204,8 +206,8 @@
                     <attribute id="Name" type="LSString" value="Skald" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
-                    <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(cd83187f-c886-45c2-be81-34083981f240,2,0,BardMagicalSecrets);SelectSpells(2bbd99d0-21b4-41cc-836e-e386a96fc8e6,0,1,BardSpells)"/>
                     <attribute id="TableUUID" type="guid" value="96d3e7be-9e8d-45f8-9b61-688be6387b73" />
                     <attribute id="UUID" type="guid" value="de5e2caf-eb8e-427a-87eb-3703372a8b19" />
                 </node>
@@ -215,8 +217,8 @@
                     <attribute id="Name" type="LSString" value="Skald" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
                     <attribute id="PassivesAdded" type="LSString" value="" />
-                    <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(2bbd99d0-21b4-41cc-836e-e386a96fc8e6,0,1,BardSpells)"/>
                     <attribute id="TableUUID" type="guid" value="96d3e7be-9e8d-45f8-9b61-688be6387b73" />
                     <attribute id="UUID" type="guid" value="a358c1ab-ee51-4345-9cb7-a63e5a5b3552" />
                 </node>
@@ -224,9 +226,9 @@
                     <attribute id="Level" type="uint8" value="20" />
                     <attribute id="Name" type="LSString" value="Skald" />
                     <attribute id="ProgressionType" type="uint8" value="1" />
-                    <attribute id="PassivesAdded" type="LSString" value="" />
-                    <attribute id="Boosts" type="LSString" value="" />
-                    <attribute id="Selectors" type="LSString" value="" />
+                    <attribute id="PassivesAdded" type="LSString" value="SuperiorBardicInspiration"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7);"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(2bbd99d0-21b4-41cc-836e-e386a96fc8e6,0,1,BardSpells)"/>
                     <attribute id="TableUUID" type="guid" value="96d3e7be-9e8d-45f8-9b61-688be6387b73" />
                     <attribute id="UUID" type="guid" value="b65ef8c8-6c07-42ae-aebe-660d0fd95e98" />
                 </node>

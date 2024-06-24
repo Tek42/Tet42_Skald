@@ -54,7 +54,7 @@
 											<attribute id="AttributeName" type="FixedString" value="Radius" />
 											<attribute id="FullName" type="FixedString" value="Radius" />
 											<attribute id="Type" type="uint8" value="4" />
-											<attribute id="Value" type="float" value="12" />
+											<attribute id="Value" type="float" value="9" />
 											<children>
 												<node id="Parameter">
 													<attribute id="Name" type="LSString" value="default" />
@@ -266,7 +266,7 @@
 											<attribute id="AttributeName" type="FixedString" value="Uniform Scale" />
 											<attribute id="FullName" type="FixedString" value="Appearance.Uniform Scale" />
 											<attribute id="Type" type="uint8" value="4" />
-											<attribute id="Value" type="float" value="1" />
+											<attribute id="Value" type="float" value="1.333" />
 										</node>
 										<node id="Property">
 											<attribute id="AttributeName" type="FixedString" value="Color" />

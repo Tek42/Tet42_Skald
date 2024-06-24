@@ -55,7 +55,7 @@
 	<content contentuid="h97ab9570g4ad7g4720gb373g5c54ba3e9114" version="1">Song of Battle: Gates of Delirium (Overture)</content>
 	<content contentuid="h93e3fbf3g86d0g4fdegb771g2b213bbd17b3" version="1">Listen, your friends have been broken.&lt;br&gt;&lt;br&gt;All enemies that can hear your song have a penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
 	<content contentuid="h63cbdc5fg4f8dg41d0gb850gc78d10024990" version="1">Song of Battle: Built For Speed (Overture)</content>
-	<content contentuid="h2b48c5e3g8062g44begbb8cg9ebf6c98f778" version="1">I was born with the hammer down. I was built for speed.&lt;br&gt;&lt;br&gt;You and your companions gain one extra action per turn for two turns. This song also grants you [1] to melee/unarmed damage +[2] to attack rolls for the full 10 turn song duration.</content>
+	<content contentuid="h2b48c5e3g8062g44begbb8cg9ebf6c98f778" version="1">I was born with the hammer down. I was built for speed.&lt;br&gt;&lt;br&gt;You and your companions gain one extra action per turn for two turns. This song also grants you [1] to melee/unarmed damage and +[2] to attack rolls for the full 10 turn song duration.</content>
 	<content contentuid="h640c60dcgda0fg44e1g8ecfg026081087f22" version="1">[1] to melee/unarmed damage and +[2] to attack rolls.</content>
 	<content contentuid="h88b7e7e7g2ad1g4c6eg9258g8ddd665f9488" version="1">Skald's War Chant</content>
 	<content contentuid="h685565d9g9e95g44f7g880fg926251b90135" version="1">Grants [1] to melee/unarmed damage +[2] to attack rolls for 10 turns.</content>
@@ -64,7 +64,7 @@
 	<content contentuid="hc4b41815gd27bg44fdgaf66ga29c8622b5f8" version="1">Song of Battle: Darkness Within</content>
 	<content contentuid="h6a52da6dg96d5g4a17g9488gf56d5e946288" version="1">And now the shadowed veil it falls. Heed the clarion call.&lt;br&gt;&lt;br&gt;All enemies that can hear your song become blinded and have a penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;</content>
 	<content contentuid="hc714a422gebeag49b0g8fc6g34af97b8f56e" version="1">Song of Battle: Victorius March</content>
-	<content contentuid="h0e446cb6g2ec5g40a1g9cdeg1754352884f7" version="1">The horizon burns and the song is ringing loud.&lt;br&gt;&lt;br&gt;You and your compantions gain a +2 bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; as long as your song lasts.</content>
+	<content contentuid="h0e446cb6g2ec5g40a1g9cdeg1754352884f7" version="1">The horizon burns and the song is ringing loud.&lt;br&gt;&lt;br&gt;You and your compantions gain a +2 bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
 	<content contentuid="h8195ed82g90a3g4e60g9be2g363db19ae104" version="1">Careful With That Axe - Adagio (Melee)</content>
 	<content contentuid="h0d02f445g7254g452fgaacbg9c8706140f26" version="1">The stars are screaming loud.&lt;br&gt;&lt;br&gt;Skillfully strike the target with your melee weapon and cause &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Dazed&lt;/LSTag&gt; for 1 turn.</content>
 	<content contentuid="h406bb018gec0bg4f18g859cg5d8d397813bb" version="1">Flash of the Blade - Scherzo (Melee)</content>
@@ -86,9 +86,48 @@
 	<content contentuid="h6466192dg1789g47bag970cg381322765a52" version="1">Again We Rise - Finale (Spell)</content>
 	<content contentuid="ha2a17ff5gfefbg43bag865ega5159092975a" version="1">Go back to the source. I raise my head.&lt;br&gt;&lt;br&gt;Heals a friendly target for 33% of their max HP and will also resurrect your target if necessary.</content>
 	<content contentuid="h944eb7a7gf558g4c58gb620g252776b6a2b1" version="1">Live for the Kill - Finale (Spell)</content>
-	<content contentuid="h52aa92a9gec48g4bd0gae41gff7c474c3a8b" version="1">A natural force it knows no remorse and lives for the kill.&lt;br&gt;&lt;br&gt;Heal your nearby allies for 25% of their max HP.</content>
+	<content contentuid="h52aa92a9gec48g4bd0gae41gff7c474c3a8b" version="1">A natural force it knows no remorse and lives for the kill.&lt;br&gt;&lt;br&gt;Heal your nearby allies for 10% of their max HP.</content>
 	<content contentuid="h0dfda915gcaf0g4b07g907dg9c673bfec3fd" version="1">Special 3 - Special Grand Finale (Spell)</content>
 	<content contentuid="h95633cbag2856g4af8g8e53gec76be72ca3e" version="1">Your performance was extra special. This grand finale will be amazing!</content>
-    <content contentuid="he89d341d3a584535a2c34c6668a00c3de50g" version="1">Skald</content>
-    <content contentuid="hee650b97bb4445d4a55482dbff618dbd07bb" version="1">Skald</content>
+    <content contentuid="he89d341d3a584535a2c34c6668a00c3de50g" version="1">Skald Dialog Tag</content>
+    <content contentuid="hee650b97bb4445d4a55482dbff618dbd07bb" version="1">Skald Dialog Tag Descr</content>
+    <content contentuid="h13e05b7a253b4ed7a4b7cddd1cf321f573b0" version="1">Warhorn: Twilight of the Thunder God</content>
+    <content contentuid="hb839f5610d684ab5a96284504fec22f66028" version="1">Ride to meet your fate, your destiny awaits&lt;br&gt;&lt;br&gt;Emitting a thunderous aura. Weapon attacks of nearby allies deal an additional [1].</content>
+    <content contentuid="h22cece065d4c458a8d3e2d7428f1718fg5a8" version="1">Warhorn: Crack the Sky</content>
+    <content contentuid="h87e3d48b19744a968ac9567c7e47f7ee7097" version="1">Crackling thunder roars. All across the world.&lt;br&gt;&lt;br&gt;Emit a wave of malevolent thunder and lightning that damages nearby creatures and possibly knocks them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+    <content contentuid="h4acdf2be2923450b91c0dbfe49de61c30536" version="1">Grand Master Performances</content>
+    <content contentuid="hf07e80d32e9e4b90a5a628a072e7ae649b13" version="1">Overture: Pain Is A Master</content>
+    <content contentuid="hcb50c3c7d5a84ef8b87fa0727565e2fef73c" version="1">Crawling and moaning in the sharp blades of grass.&lt;br&gt;&lt;br&gt;</content>
+    <content contentuid="h3f8d15e728e04dd89a72afbe4148ec5ea4f1" version="1">Overture: Raise Your Horns</content>
+    <content contentuid="hc4efa34d7d0f4c808086d8d523525f5feef2" version="1">Raise your horns, raise them up to the sky. We will drink to glory tonight.&lt;br&gt;&lt;br&gt;You are immune to Diseases, Poisons and being &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, it makes all Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and is resistant to being blinded, charmed, frightened, paralyzed, and stunned.</content>
+    <content contentuid="h5c44c9a64dae4066abde058a620ef2979f81" version="1">Flawless Performances</content>
+    <content contentuid="h2c63aee0c07b4decbaba31850994ad0deg67" version="1">Overture: Renewal</content>
+    <content contentuid="h6cded3fdbf5a4129a8296ce0a15c3b0f9fb7" version="1">Dare not to inflict upon my wishes. Dare not to obstruct upon my path.&lt;br&gt;&lt;br&gt;Unleash a soothing hum of energy that heals you and nearby allies each turn for 10 turns.</content>
+    <content contentuid="hd3589498ea17426bab70b0db3dd59d6736de" version="1">Overture: Pain</content>
+    <content contentuid="hc4b4b320e0c9447b8e2ce0897998e34f93fb" version="1">Pain Descr</content>
+    <content contentuid="hf33927171841436b95b7a5b905728b2d28ce" version="1">Overtures</content>
+    <content contentuid="h9855b550cec147a6819bd67291906ce1f174" version="1">Haste</content>
+    <content contentuid="h67f8096f4734482bbfe9617ad30f7e9c7776" version="1">Your Skald has inspired you, you now perform an extra action each turn.</content>
+    <content contentuid="haae9370a4ee640db845d820cb0a51874gcgd" version="1">Your Skald has inspired you, you have [1] to melee/unarmed damage and +[2] to attack rolls</content>
+    <content contentuid="h2378526cc87f48a5b6bdb7e92d5287c1b834" version="1">Your Skald has blessed you with a +1d4 bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+    <content contentuid="h31213e02c3ca4481b6bb749c299a398bcfbg" version="1">Your Skalds song makes you feel vigorous, you gain a +1d4 bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+    <content contentuid="h6f95a128b0454d7599d4b325ded3197cgbg6" version="1">The steady rhythm of your Skalds music urges you forward. You gain a +2 bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws</content>
+    <content contentuid="h2b8b93031c4f4e42964ca67d7c7d5c5d90d3" version="1">Your Skalds soothing melody mends your wounds.</content>
+    <content contentuid="h95a7a143b62c4e60a7137a29d0403415705a" version="1">Your Skalds heroic ballad emboldens you. You are immune to Diseases, Poisons and being &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, you makes all Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+    <content contentuid="h9e6e793056a4411680f743f4e3f86b8406a2" version="1">Song of Battle</content>
+    <content contentuid="h84e58728fb3e443295a065734ce01e9f36e8" version="1">Adagio</content>
+    <content contentuid="h5f278b84c60d480682115e3ae51f8f4e1783" version="1">Scherzo</content>
+    <content contentuid="h6b1cda563708489ea28585cdebfedf544b84" version="1">Finale</content>
+    <content contentuid="hfe09f9a8f57b4380803336038c71ab3b56ae" version="1">Cry of the Black Birds - Finale (Spell)</content>
+    <content contentuid="hcc132db523cd464a92ef39219320270e2g4g" version="1">Over the field an eerie sound, As we hear the ravens' cry.&lt;br&gt;&lt;br&gt;Call forth a blast of sonic energy that hits all creatures in the line of the eruption.</content>
+    <content contentuid="h4d85280cd3034425a7da57b6a52241a4b599" version="1">Black Tongue</content>
+    <content contentuid="h7a372320d072407ca8212377b09fb6d4g79d" version="1">The entity can't take reactions and can only use movement or take either an action or a bonus action.</content>
+    <content contentuid="hc6b8cb4ee78e41f1a9a831b36095e8479bf1" version="1">Black Tongue - Adagio (Spell)</content>
+    <content contentuid="hd9035b80bd564c58a35bf1f668c1e76cf65g" version="1">You can hide but you'll never escape.&lt;br&gt;&lt;br&gt;A tendril of sonic energy lashes out at a creature, possibly preventing it from taking Reactions and limiting it using movement, an Action or a Bonus Action.</content>
+    <content contentuid="hcbb009f97fe74f7995e939149ca7123bgcf2" version="1">Blood and Thunder - Scherzo (Spell)</content>
+    <content contentuid="h2b57465be8294aa8a0ea588ff670c408cd18" version="1">Split your lungs with blood and thunder.&lt;br&gt;&lt;br&gt;Release a wave of thunderous force that pushes away all creatures and objects.</content>
+    <content contentuid="h65bc72c941a34c55bcbd150c6e76d8698583" version="1">Herald of Thunder</content>
+    <content contentuid="h34f02042b22543e88d1619996d77c108b96g" version="1">Spells you cast ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Thunder damage. In addition, when you deal Thunder damage with a spell, you cannot roll a 1.</content>
+    <content contentuid="h38c66598cf9e48e6af8ef269d47730106bg2" version="1">You regain all your &lt;LSTag Type="ActionResource" Tooltip="BardicInspiration"&gt;Skald Inspiration&lt;/LSTag&gt; after a &lt;LSTag Tooltip="LongRest"&gt;Long&lt;/LSTag&gt; or &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+    <content contentuid="hbb76cad0ec734e2cb57763631d6e2892c5ac" version="1">When you roll initiative and have no uses of &lt;LSTag Type="Status" Tooltip="BardicInspiration"&gt;Skald Inspiration&lt;/LSTag&gt; left, you regain one use.</content>
 </contentList>

@@ -7,7 +7,7 @@
         <node id="ActionResourceDefinition">
             <attribute id="DisplayName" type="TranslatedString" handle="hc445d38dge707g452ag86f5g34a1f0a32193" version="1" />
             <attribute id="Description" type="TranslatedString" handle="hd0187b8cg9433g452fg97d4g0877db9b2eb2" version="1" />
-            <attribute id="Name" type="FixedString" value="SkaldInspiration" />
+            <attribute id="Name" type="FixedString" value="BardicInspiration" />
             <attribute id="ReplenishType" type="FixedString" value="Rest" />
             <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
             <attribute id="UUID" type="guid" value="ac3d8314-8013-4302-ba23-45f41797ab69" />

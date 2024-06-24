@@ -5,11 +5,11 @@
 		<node id="TextureBank">
 			<children>
 				<node id="Resource">
-					<attribute id="ID" type="FixedString" value="39964b6d-86da-47e3-86b0-772098557b2f" />
+					<attribute id="ID" type="FixedString" value="12ee4d81-18cc-47fc-9888-8204971a8e9c" />
 					<attribute id="Localized" type="bool" value="False" />
-					<attribute id="Name" type="LSString" value="Skald_Icons" /> 
+					<attribute id="Name" type="LSString" value="Icons_Skald" />
 					<attribute id="SRGB" type="bool" value="True" />
-					<attribute id="SourceFile" type="LSString" value="Public/Tet42_Skald/Assets/Textures/Icons/Skald_Icons.DDS" /> 
+					<attribute id="SourceFile" type="LSString" value="Public/Tet42_Skald/Assets/Textures/Icons/Icons_Skald.DDS" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Template" type="FixedString" value="Icons_Items" />
 					<attribute id="Type" type="int32" value="0" />
